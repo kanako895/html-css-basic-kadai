@@ -1,8 +1,8 @@
 html {
-  font-style: 20px;
+  font-size: 20px;
 }
 body {
-  font-family: "Arilal","Meiryo",sans-serif;
+  font-family: "Arial","Meiryo",sans-serif;
   text-align: center;
 }
 
@@ -19,4 +19,7 @@ h1 {
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px yellow;
   border-bottom: solid 3px rgb(115,115,114);
+}
+.decoration {
+  font-weight: bold;
 }
