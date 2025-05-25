@@ -61,7 +61,6 @@
     height: 100px;
     background-color: #e5dcf0;
     position: relative;
-    top: 100px;
     left: 200px;
 }
 #bottom-child03 {
@@ -69,6 +68,5 @@
     height: 100px;
     background-color: #e5dcf0;
     position: relative;
-    top: 200px;
     left: 400px;
 }
